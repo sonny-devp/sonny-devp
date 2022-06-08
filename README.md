@@ -11,7 +11,7 @@ I'm Sonny, fullstack developer who specializes in front-end development. I live 
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonny-devp&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=2a2b2d&hide_border=true" alt="sonny-devp stats card" /></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonny-devp&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=2a2b2d&hide_border=false&layout=compact" alt="sonny-devp stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonny-devp&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=2a2b2d&hide_border=false&layout=compact&hide_border=true" alt="sonny-devp stats card" /></p>
 
 ## Languages ​​used
 
