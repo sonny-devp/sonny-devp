@@ -57,6 +57,13 @@ I'm Sonny 💻, fullstack developer who specializes in front-end development. I 
 <a href="https://reactnative.dev/" target="blank">
 <img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="40" width="40" />
 </a>
+<a href="https://www.mysql.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</a>
+<a href="https://www.postgresql.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
+</a>
+
 
 ## Support
 
