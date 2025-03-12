@@ -2,7 +2,7 @@
 
 I'm Sonny 💻, fullstack developer who specializes in front-end development. I live on punto fijo, Venezuela. 
     
-- 👩‍💻 I'm currently working on <a href = "http://bessersolutions.com" target="blank">Besser Solutions C.A </a>
+- 👩‍💻 I'm currently working on <a href = "#" target="blank">RiverLabs.us</a>
 
 - 🧠 I'm currently learning about Mobile Apps on <a href = "https://reactnative.dev/" target="blank">React Native </a>
 
