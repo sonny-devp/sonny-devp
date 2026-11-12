@@ -1,70 +1,55 @@
-# Hey there 🤟
+<h1 align="center">Sonny Castro</h1>
 
-I'm Sonny 💻, fullstack developer who specializes in front-end development. I live on punto fijo, Venezuela. 
-    
-- 👩‍💻 I'm currently working on <a href = "#" target="blank">RiverLabs.us</a>
+<p align="center">
+  <b>Tech Lead · AI Product Engineer</b><br>
+  Punto Fijo, Venezuela · <a href="https://www.linkedin.com/in/sonny-castro-3a3895181/">LinkedIn</a>
+</p>
 
-- 🧠 I'm currently learning about Mobile Apps on <a href = "https://reactnative.dev/" target="blank">React Native </a>
+<p align="center">
+  I build AI products that reach production — agents handling real data, OCR replacing manual entry,<br>
+  and business platforms people open every day.
+</p>
 
-## Statistics
+---
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonny-devp&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=2a2b2d&hide_border=true" alt="sonny-devp stats card" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonny-devp&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=2a2b2d&hide_border=false&layout=compact&hide_border=true" alt="sonny-devp stats card" /></p>
+### What I do
 
-## Languages ​​used
+- **AI agents & automation** — Python, LLM orchestration, Agno, n8n, WhatsApp integrations
+- **Business platforms** — Laravel + PostgreSQL: POS, HR, subscriptions, invoicing
+- **Mobile** — Flutter apps connected to the same backends
+- **Infrastructure** — Docker, Linux, Nginx, self-hosted deployments on a VPS
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-</a>
-<a href="https://www.typescriptlang.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" />
-</a>
-<a href="https://www.python.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-</a>
-<a href="https://reactjs.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
-</a>
-<a href="https://getbootstrap.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-<a href="https://sass-lang.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40" />
-</a>
-<a href="https://redux.js.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
-</a>
-<a href="https://tailwindcss.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
-</a>
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
-</a>
-<a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
-</a>
-<a href="https://www.nginx.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" width="40" />
-</a>
-<a href="https://reactnative.dev/" target="blank">
-<img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="40" width="40" />
-</a>
-<a href="https://www.mysql.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-</a>
-<a href="https://www.postgresql.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
-</a>
+I care about the unglamorous part: the system stays up, the numbers reconcile, and the person using it doesn't need a manual.
 
+---
 
-## Support
+### Stack
 
-For support, email sonnycastro63@gmail.com.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+---
+
+### Experience
+
+| Where | What |
+| --- | --- |
+| **Riverlabs** · United States | AI agents in Python, POS and HR platforms, OCR pipelines, automations with Agno and n8n |
+| **Cala Projects** · Uruguay | Node.js bots with WhatsApp and AI, Chatwoot deployment, local LLM evaluation, server administration |
+| **Besser Solutions** · Venezuela | Subscription platform (React + Python), Grafana metrics, antenna data API |
+
+---
+
+<p align="center">
+  <b>Open to conversations about AI products, fintech and complex backends.</b><br>
+  <a href="https://www.linkedin.com/in/sonny-castro-3a3895181/">LinkedIn</a> · sonnycastro63@gmail.com
+</p>
